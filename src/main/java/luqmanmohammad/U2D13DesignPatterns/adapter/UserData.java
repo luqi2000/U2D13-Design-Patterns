@@ -8,4 +8,12 @@ public class UserData {
 	 nomeCompleto = ds.getNomeCompleto (); 
 	 eta = ds.getEta(); 
 	 } 
+	 
+	 public String getNomeCompleto() {
+			return nomeCompleto;
+	}
+
+		public int getEta() {
+			return eta;
+	}
 }

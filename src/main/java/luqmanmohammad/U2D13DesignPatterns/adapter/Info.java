@@ -27,7 +27,7 @@ public class Info {
 		 return dataDiNascita;
 		 
 	 } 
-	 public void DataDiNascita (Date dataDiNascita) { 
+	 public void setDataDiNascita (Date dataDiNascita) { 
 		 this.dataDiNascita = dataDiNascita;
 	 } 
 }
